@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @OrynaKub
+- 👀 Student at B.Sc. Computer Science and Software Engineering at UQAM and Cybersecurity student at McGill University 
+- 🌱 I’m currently learning Web Developpement, RISC-V, Java programming language and other programming languages
+- 💞️ I’m looking to collaborate on new projects and develope more skills on programming 
+- 📫 How to reach me : by email orynakub@outlook.com
+
